@@ -1,2 +1,2 @@
 # calcJs
-very simple arithmetic calculator It's hust practice.
+Very simple arithmetic calculator I did just for practice.
